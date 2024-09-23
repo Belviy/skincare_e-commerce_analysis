@@ -1,0 +1,41 @@
+,Row ID,Order ID,Order Date,Customer ID,Segment,City,State,Country,Region,Market,Subcategory,Category,Product,Quantity,Sales,Discount,Profit,year,rn,rn1,rn2
+319,198,US-2012-TB2135598-41241,2020-11-28,TB-2135598,Corporate,Panama City,Panama,Panama,Central America,LATAM,"bath oils, bubbles and soaks",Body care,Silver Moon Pendant,20,2160,0.4,216,2020,192,1,6
+823,41740,GH-2013-KN645049-41593,2021-11-15,KN-645049,Corporate,Kumasi,Ashanti,Ghana,Western Africa,Africa,"bath oils, bubbles and soaks",Body care,Silver Frost Bracelet,9,1368,0.0,684,2021,30,1,10
+1135,49556,SF-2014-KE6420117-41801,2022-06-11,KE-6420117,Corporate,Tembisa,Gauteng,South Africa,Southern Africa,Africa,"bath oils, bubbles and soaks",Body care,Golden Feather Earrings,13,2483,0.0,1242,2022,8,1,9
+2566,9654,MX-2012-EB1397551-41112,2020-07-22,EB-1397551,Corporate,Villa Canales,Guatemala,Guatemala,Central America,LATAM,body moisturizers,Body care,Silver Mirage Necklace,20,1860,0.0,186,2020,245,1,9
+4745,43901,PL-2015-AG495103-42300,2023-10-23,AG-495103,Corporate,Bielsko-Biala,Silesia,Poland,Eastern Europe,Europe,body moisturizers,Body care,Ruby Blaze Ring,15,2310,0.0,231,2023,220,1,4
+7598,40671,CA-2014-KB16600140-41796,2022-06-06,KB-166001404,Corporate,Seattle,Washington,United States,Western US,USCA,face masks and exfoliators,Body care,Golden Feather Earrings,20,3820,0.0,382,2022,84,1,1
+8450,42602,TO-2015-DM3345131-42224,2023-08-08,DM-3345131,Corporate,Lome,Maritime,Togo,Western Africa,Africa,face masks and exfoliators,Body care,Gold Lustre Hoop Earrings,13,1612,0.0,161,2023,409,1,10
+9537,25823,IN-2013-LA1678066-41433,2021-06-08,LA-1678066,Corporate,Fujisawa,Kanagawa,Japan,Eastern Asia,Asia Pacific,hand creams,Body care,Sterling Wave Earrings,16,2880,0.0,1440,2021,4,1,5
+9794,46275,MZ-2013-AG30087-41591,2021-11-13,AG-30087,Corporate,Matola,Maputo,Mozambique,Eastern Africa,Africa,hand creams,Body care,Golden Echo Necklace,20,1800,0.0,900,2021,17,1,8
+10970,48800,EZ-2015-JC610532-42197,2023-07-12,JC-610532,Corporate,Plzen,Plzen,Czech Republic,Eastern Europe,Europe,hand creams,Body care,Prada Man in Black,17,1717,0.0,687,2023,24,1,8
+11825,44490,RO-2012-GM4695107-41074,2020-06-14,GM-4695107,Corporate,Iasi,Iasi,Romania,Eastern Europe,Europe,Nail care products,Body care,Gold Radiance Bangle,9,1665,0.0,833,2020,20,1,10
+12781,51028,AL-2013-ML73952-41388,2021-04-24,ML-73952,Corporate,Vlore,Vlorë,Albania,Southern Europe,Europe,Nail care products,Body care,Silver Enchantment Anklet,18,2610,0.0,1305,2021,5,1,6
+14619,29707,IN-2014-EH1376527-41855,2022-08-04,EH-1376527,Corporate,Yibin,Sichuan,China,Eastern Asia,Asia Pacific,Nail care products,Body care,Sterling Crown Anklet,17,3111,0.0,1556,2022,3,1,3
+14760,25842,ID-2014-SP20620102-41879,2022-08-28,SP-20620102,Corporate,Pasig,National Capital,Philippines,Southeastern Asia,Asia Pacific,Nail care products,Body care,Rose Gold Orbit Pendant,19,2299,0.15,805,2022,20,1,10
+19905,27413,IN-2014-SP2054558-42003,2022-12-30,SP-2054558,Corporate,Surat,Gujarat,India,Southern Asia,Asia Pacific,vitamins and supplements,Body care,Sterling Frost Earrings,19,3230,0.0,1615,2022,2,1,2
+20016,45836,SG-2015-JM5655111-42059,2023-02-24,JM-5655111,Corporate,Dakar,Dakar,Senegal,Western Africa,Africa,vitamins and supplements,Body care,Golden Crescent Necklace,10,1700,0.0,680,2023,27,1,9
+21272,4872,US-2012-VB21745143-41086,2020-06-26,VB-21745143,Corporate,Maracaibo,Zulia,Venezuela,South America,LATAM,face moisturizing products,Face care,Gold Enchantment Bracelet,20,3220,0.4,322,2020,96,1,4
+22485,13632,ES-2014-KB16240120-41696,2022-02-26,KB-16240120,Corporate,Madrid,Madrid,Spain,Southern Europe,Europe,face moisturizing products,Face care,Emerald Starburst Ring,17,2737,0.0,1369,2022,4,1,5
+23611,44725,CM-2015-MH762022-42124,2023-04-30,MH-762022,Corporate,Garoua,Nord,Cameroon,Central Africa,Africa,face moisturizing products,Face care,Sterling Frost Ring,9,1746,0.0,698,2023,22,1,7
+23837,41481,BU-2015-DP310519-42193,2023-07-08,DP-310519,Corporate,Varna,Varna,Bulgaria,Eastern Europe,Europe,face moisturizing products,Face care,Silver Radiance Earrings,14,2240,0.0,896,2023,12,1,5
+25498,23803,IN-2013-AS102257-41517,2021-08-31,AS-102257,Corporate,Perth,Western Australia,Australia,Oceania,Asia Pacific,hair colors and toners,Hair care,Sterling Frost Earrings,19,3230,0.1,162,2021,376,1,3
+26174,7667,MX-2014-HE1480018-41845,2022-07-25,HE-1480018,Corporate,São Paulo,São Paulo,Brazil,South America,LATAM,hair colors and toners,Hair care,Golden Halo Earrings,17,2533,0.0,380,2022,85,1,6
+27006,48672,CA-2015-TH1111523-42173,2023-06-18,TH-1111523,Corporate,Saint-Laurent,Quebec,Canada,Canada,USCA,hair colors and toners,Hair care,Silver Whisper Necklace,20,2860,0.0,429,2023,67,1,2
+27687,23134,IN-2015-SP2062011-42364,2023-12-26,SP-2062011,Corporate,Dhaka,Dhaka,Bangladesh,Southern Asia,Asia Pacific,hair colors and toners,Hair care,Silver Whisper Necklace,18,2574,0.0,386,2023,76,1,3
+29048,7156,MX-2013-FW1439528-41455,2021-06-30,FW-1439528,Corporate,Valledupar,Cesar,Colombia,South America,LATAM,shampoos and conditioners,Hair care,Sterling Whisper Bracelet,19,3173,0.0,476,2021,58,1,4
+30282,12979,ES-2014-AO10810139-41846,2022-07-26,AO-10810139,Corporate,Leicester,England,United Kingdom,Northern Europe,Europe,shampoos and conditioners,Hair care,Ruby Flame Earrings,13,2496,0.0,374,2022,93,1,8
+34063,42437,CG-2014-DM295533-41719,2022-03-21,DM-295533,Corporate,Bukavu,South Kivu,Congo [DRC],Central Africa,Africa,Accessories,Home and Accessories,Rose Gold Twilight Ring,15,2850,0.0,285,2022,187,1,4
+36781,16847,ES-2013-MC1760548-41471,2021-07-16,MC-1760548,Corporate,Leipzig,Saxony,Germany,Western Europe,Europe,brushes and applicators,Home and Accessories,Ruby Whisper Bracelet,20,3940,0.0,394,2021,81,1,1
+39390,20102,ES-2012-MY182958-41160,2020-09-08,MY-182958,Corporate,Innsbruck,Tyrol,Austria,Western Europe,Europe,"candles, sprays, diffusers",Home and Accessories,Silver Whisper Earrings,10,2000,0.0,200,2020,212,1,7
+42512,11115,ES-2012-AR1082564-41041,2020-05-12,AR-1082564,Corporate,Messina,Sicily,Italy,Southern Europe,Europe,Eye shadows and pencils,Make up,Golden Blaze Necklace,17,3281,0.0,1641,2020,3,1,3
+42828,16977,ES-2012-GH1448545-41174,2020-09-22,GH-1448545,Corporate,Verdun,Alsace-Champagne-Ardenne-Lorraine,France,Western Europe,Europe,Eye shadows and pencils,Make up,Silver Feather Necklace,20,3640,0.0,1820,2020,1,1,2
+42904,5404,MX-2012-AO1081026-41203,2020-10-21,AO-1081026,Corporate,Santiago,Santiago,Chile,South America,LATAM,Eye shadows and pencils,Make up,Gucci Light Blue,16,1904,0.0,952,2020,16,1,8
+42981,21749,ID-2012-MS1798059-41234,2020-11-21,MS-1798059,Corporate,Bekasi,Jawa Barat,Indonesia,Southeastern Asia,Asia Pacific,Eye shadows and pencils,Make up,Silver Glimmer Necklace,19,3724,0.27,857,2020,18,1,1
+43674,45121,TZ-2013-EM3810129-41514,2021-08-28,EM-3810129,Corporate,Dar es Salaam,Dar Es Salaam,Tanzania,Eastern Africa,Africa,Eye shadows and pencils,Make up,Sapphire Solstice Pendant,10,1380,0.0,690,2021,28,1,9
+45209,7311,MX-2014-DK1315031-41948,2022-11-05,DK-1315031,Corporate,Nueva Gerona,Isla de la Juventud,Cuba,Caribbean,LATAM,Eye shadows and pencils,Make up,Gold Spectrum Anklet,16,2512,0.0,1256,2022,6,1,7
+46205,9350,MX-2015-ND1846082-42207,2023-07-22,ND-1846082,Corporate,Campeche,Campeche,Mexico,Central America,LATAM,Eye shadows and pencils,Make up,Golden Grace Stud Earrings,19,3724,0.0,1490,2023,1,1,1
+47188,2323,MX-2012-JD1589539-40997,2020-03-29,JD-1589539,Corporate,Ilopango,San Salvador,El Salvador,Central America,LATAM,foundations and concealers,Make up,Emerald Crown Necklace,14,2716,0.0,1358,2020,6,1,5
+47696,3259,MX-2013-ND1846093-41433,2021-06-08,ND-1846093,Corporate,Managua,Managua,Nicaragua,Central America,LATAM,foundations and concealers,Make up,Emerald Crown Necklace,18,3492,0.0,1746,2021,1,1,2
+49225,43971,IR-2015-NG835560-42266,2023-09-19,NG-835560,Corporate,Bandar Abbas,Hormozgan,Iran,Southern Asia,Asia Pacific,foundations and concealers,Make up,Gold Odyssey Ring,18,2142,0.0,857,2023,13,1,6
+50112,30668,ID-2013-BS1159092-41548,2021-10-01,BS-1159092,Corporate,Auckland,Auckland,New Zealand,Oceania,Asia Pacific,Lipsticks,Make up,Sterling Echo Earrings,17,2516,0.4,252,2021,179,1,7
